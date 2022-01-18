@@ -29,4 +29,7 @@ after that build the project. :)
 Admin user defined to view users and its changes, whose username is "admin" and password is "pass".
 # login page
 ![login.png](https://s4.uupload.ir/files/screenshot_2022-01-18_04-40-27_0i84.png)
-
+# Registration panel
+![Registration.png](https://s4.uupload.ir/files/screenshot_2022-01-18_04-43-59_hie.png)
+# user page
+! [user.png](https://s4.uupload.ir/files/screenshot_2022-01-18_05-16-38_ovjf.png)
