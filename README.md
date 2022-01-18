@@ -1,6 +1,6 @@
 # Advance programing project
 ## Make book management system by using qt and sqlite
-his app currently has the following features:
+this app currently has the following features:
 
 - Registration panel
 
@@ -26,5 +26,7 @@ db.dbstate = db.Connect("/home/mehran/New folder/qt/Login-System.3/db.db");
 ```
 after that build the project. :)
 # Demo
-Admin user defined to view users and its changes, whose username is Majid and password is Reza
+Admin user defined to view users and its changes, whose username is "admin" and password is "pass".
+# login page
+![login.png](https://s4.uupload.ir/files/screenshot_2022-01-18_04-40-27_0i84.png)
 
