@@ -36,5 +36,6 @@ Admin user defined to view users and its changes, whose username is "admin" and 
 ## admin page
 ![admin.png](https://s4.uupload.ir/files/screenshot_2022-01-18_02-08-18_4reo.png)
 ## admin panel
-![adminpanel.png](https://s4.uupload.ir/files/screenshot_2022-01-18_02-08-18_4reo.png)
+![adminpanel.png](https://s4.uupload.ir/files/screenshot_2022-01-18_02-13-36_147n.png)
+
 
