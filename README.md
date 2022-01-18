@@ -19,7 +19,12 @@ his app currently has the following features:
 - Search book by using name
 
 First, install the Qtcreator program
-and run Qtcreator and open project
+and open project
+after that change the dirctory address to Where the database file is stored like this.
 ```c++
 db.dbstate = db.Connect("/home/mehran/New folder/qt/Login-System.3/db.db");
 ```
+after that build the project. :)
+# Demo
+Admin user defined to view users and its changes, whose username is Majid and password is Reza
+
