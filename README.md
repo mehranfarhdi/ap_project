@@ -32,4 +32,4 @@ Admin user defined to view users and its changes, whose username is "admin" and 
 # Registration panel
 ![Registration.png](https://s4.uupload.ir/files/screenshot_2022-01-18_04-43-59_hie.png)
 # user page
-! [user.png](https://s4.uupload.ir/files/screenshot_2022-01-18_05-16-38_ovjf.png)
+![user.png](https://s4.uupload.ir/files/screenshot_2022-01-18_05-16-38_ovjf.png)
