@@ -22,7 +22,7 @@ First, install the Qtcreator program
 and open project
 after that change the dirctory address to Where the database file is stored like this.
 ```c++
-db.dbstate = db.Connect("/home/mehran/New folder/qt/Login-System.3/db.db");
+db.dbstate = db.Connect("/home/mehran/New folder/qt/db.db");
 ```
 after that build the project. :)
 ## Demo
