@@ -18,8 +18,5 @@ HEADERS  += \
 FORMS    += \
     book.ui
 
-DISTFILES += \
-    db.s3db.sql
-
 RESOURCES += \
     elements.qrc
